@@ -10,6 +10,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
 | ------- |
