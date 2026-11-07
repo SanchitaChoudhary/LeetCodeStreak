@@ -46,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1248-count-number-of-nice-subarrays) |
@@ -53,6 +54,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1248-count-number-of-nice-subarrays) |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0992-subarrays-with-k-different-integers) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
