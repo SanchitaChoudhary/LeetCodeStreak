@@ -1,41 +1,31 @@
 
 class Solution {
     public long countSubarrays(int[] nums, int k) {
+        long n = nums.length;
+        long a = n*(n+1)/2;
+        return a - helper(nums, k-1);
+    }
 
-        int n = nums.length;
-
-        // Find maximum element
-        int max = 0;
-
-        for (int num : nums) {
-            max = Math.max(max, num);
-        }
-
+    public long helper(int[] nums, int k) {
         int left = 0;
-        int count = 0;
-        long ans = 0;
-
-        for (int right = 0; right < n; right++) {
-
-            // Include current element
+        long count = 0;
+        long subarr = 0;
+        long max = Integer.MIN_VALUE;
+        for (int i = 0; i < nums.length; i++) {
+            max = Math.max(max, nums[i]);
+        }
+        for (int right = 0; right < nums.length; right++) {
             if (nums[right] == max) {
                 count++;
             }
-
-            // Shrink while maximum appears at least k times
-            while (count >= k) {
-
+            while (count > k) {
                 if (nums[left] == max) {
                     count--;
                 }
-
                 left++;
             }
-
-            // Count all valid starting positions
-            ans += left;
+            subarr += right - left + 1;
         }
-
-        return ans;
+        return subarr;
     }
 }
