@@ -8,6 +8,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1248-count-number-of-nice-subarrays) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -61,6 +62,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1248-count-number-of-nice-subarrays) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2762-continuous-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2762-continuous-subarrays) |
@@ -88,17 +90,21 @@
 ## Queue
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2762-continuous-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2762-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2762-continuous-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2762-continuous-subarrays) |
 ## Ordered Set
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2762-continuous-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2762-continuous-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->
