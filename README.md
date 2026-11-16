@@ -27,6 +27,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanchita-ydv/LeetCodeStreak/tree/master/0300-longest-increasing-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
 |  |
 | ------- |
