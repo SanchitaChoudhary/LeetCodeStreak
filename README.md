@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0016-3sum-closest) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanchita-ydv/LeetCodeStreak/tree/master/0300-longest-increasing-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0930-binary-subarrays-with-sum) |
@@ -116,4 +117,12 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2762-continuous-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2762-continuous-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
