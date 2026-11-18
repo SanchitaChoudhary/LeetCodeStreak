@@ -128,4 +128,8 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0016-3sum-closest) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
