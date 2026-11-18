@@ -10,6 +10,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1248-count-number-of-nice-subarrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -58,6 +59,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -131,5 +133,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
