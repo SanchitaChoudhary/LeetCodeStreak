@@ -6,6 +6,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanchita-ydv/LeetCodeStreak/tree/master/0300-longest-increasing-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0930-binary-subarrays-with-sum) |
@@ -44,6 +45,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0279-perfect-squares) |
 ## Knapsack Problem
 |  |
@@ -135,4 +137,16 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/1791-find-center-of-star-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SanchitaChoudhary/LeetCodeStreak/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
